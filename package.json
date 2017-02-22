@@ -1,0 +1,23 @@
+{
+  "name": "personal-api-devmtn",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missyjeanbeutler/personal-api-devmtn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missyjeanbeutler/personal-api-devmtn/issues"
+  },
+  "homepage": "https://github.com/missyjeanbeutler/personal-api-devmtn#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
