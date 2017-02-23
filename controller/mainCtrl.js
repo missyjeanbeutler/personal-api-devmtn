@@ -83,7 +83,7 @@ module.exports = {
      },
 
      getSecrets: function(req, res){
-         res.status(200).send('shhhhhh '+ secrets);
+         res.status(200).json('shhhhhh '+ secrets);
      },
 
 
